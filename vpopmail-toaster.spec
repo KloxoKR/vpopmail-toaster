@@ -1,7 +1,7 @@
 %define	name vpopmail
 %define	pversion 5.4.33
 %define 	bversion 1.4
-%define	rpmrelease 6.kng%{?dist}
+%define	rpmrelease 6.kkr%{?dist}
 
 %define		release %{bversion}.%{rpmrelease}
 BuildRequires:	automake, autoconf, mysql-devel >= 5.0.22, mysql >= 5.0.22 
